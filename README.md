@@ -7,7 +7,7 @@
 
 
 ## Instructions
-### You can use "iust_dl97_project.ipynb" for training model from scratch or using pre-trained model as feature extractor
+### Use "iust_dl97_project.ipynb" to training model from scratch or using pre-trained model as feature extractor
 ### You can also follow the instructions below for pre-traiend model:
 * Install python3 and the required packages
 * Modify `cfg/enroll_list.csv` and `cfg/test_list.csv` to point to your local enroll/test wav files
