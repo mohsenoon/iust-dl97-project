@@ -1,5 +1,9 @@
 
-# Speaker Identification based on:
+# IUST Deep Learning Cource Project
+* Project Title: "Speaker Recognition using Deep Learning
+* Course URL:  [iust-deep-learning.github.io/972/](https://iust-deep-learning.github.io/972/)
+
+## This project is based on:
 
 * Nagrani et al 2017, "[VoxCeleb: a large-scale speaker identification dataset](https://arxiv.org/pdf/1706.08612.pdf)"
 * https://github.com/linhdvu14/vggvox-speaker-identification
