@@ -1,6 +1,6 @@
 
 # IUST Deep Learning Cource Project
-* Project Title: "Speaker Recognition using Deep Learning
+* Project Title: "Speaker Recognition using Deep Learning"
 * Course URL:  [iust-deep-learning.github.io/972/](https://iust-deep-learning.github.io/972/)
 
 ## This project is based on:
